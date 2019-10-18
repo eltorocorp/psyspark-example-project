@@ -1,4 +1,9 @@
-# PySpark Example Project
+# process-feed-pyspark
+PySpark ETL jobs and applications for processing bidderlogs feed.
+
+*Forked from below
+
+## PySpark Example Project
 
 This document is designed to be read in parallel with the code in the `pyspark-template-project` repository. Together, these constitute what we consider to be a 'best practices' approach to writing ETL jobs using Apache Spark and its Python ('PySpark') APIs. This project addresses the following topics:
 

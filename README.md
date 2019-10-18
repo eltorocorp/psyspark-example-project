@@ -1,7 +1,7 @@
 # process-feed-pyspark
 PySpark ETL jobs and applications for processing bidderlogs feed.
 
-*Forked from below
+*Forked from below as a starting point
 
 ## PySpark Example Project
 
